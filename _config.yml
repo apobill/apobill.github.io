@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: apobill.github.io
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: Vasilis Apostolopoulos
 description: Your description here
 google_verification: null
 
